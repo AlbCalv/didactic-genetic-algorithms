@@ -1,4 +1,4 @@
-#didactic-genetic-algorithms
+# didactic-genetic-algorithms
 
 This project was created as a didacic research in Genetic Algorithms and Neural Networks in the scope of
 Algorithms and Computation subject at Computer Engineering degree, University of Valladolid.
